@@ -1,2 +1,8 @@
 # GPA-calculator-flutter
-GPA calculator made using flutter.(My first app with Flutter)
+(My first app with Flutter)
+If you want to work on this app, then create a flutter project
+```
+  flutter create <project-name>
+```
+replace the lib folder with existing lib folder that was created.
+
