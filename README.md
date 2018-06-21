@@ -1,4 +1,4 @@
-# GPA-calculator-flutter
+# GPA Calculator
 (My first app with Flutter)
 If you want to work on this app, then create a flutter project
 ```
